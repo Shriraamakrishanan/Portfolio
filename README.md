@@ -48,6 +48,7 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+## HTML CODE:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -157,6 +158,7 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 ```
+## CSS CODE:
 ```css
 :root {
     --primary: #0984e3;
@@ -281,10 +283,15 @@ footer h2 { color: #fff; }
 ```
 
 ## OUTPUT
+## Profile:
 ![alt text](<Screenshot 2026-04-27 115218.png>)
+## About:
 ![alt text](<Screenshot 2026-04-27 115227.png>)
+## Projects:
 ![alt text](<Screenshot 2026-04-27 115236.png>)
+## Achivements:
 ![alt text](<Screenshot 2026-04-27 115247.png>)
+## Contact:
 ![alt text](<Screenshot 2026-04-27 115301.png>)
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
